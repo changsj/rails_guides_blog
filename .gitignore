@@ -14,3 +14,10 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#### Temp files
+*~
+*.swp
+.DS_Store
+.idea
+
